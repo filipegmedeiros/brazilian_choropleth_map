@@ -9,6 +9,13 @@
 
 |Github License| |Github Issues| |Github Commit|
 
+
+=================
+Medium
+=================
+
+Aqui vai ficar o link para o artigo medium descrevendo como refazer esse código :D
+
 =================
 Table of contents
 =================
