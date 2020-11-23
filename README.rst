@@ -13,11 +13,11 @@
 Table of contents
 =================
 
-- `Razão`\
-- `Geojson`\
-- `Como Rodar`\
-- `Disclaimer`\
-- `Contribuições`\
+- `Razão`_
+- `Geojson`_
+- `Como Rodar`_
+- `Disclaimer`_
+- `Contribuições`_
 
 =======
 Razão
@@ -66,7 +66,7 @@ chamada `Ciencia de Dados <https://github.com/ivanovitchm/datascience2020.6>`_. 
 Contribuições
 =============
 
-As contribuições ficam para o meu colega `Pedro Carvalho <https://www.linkedin.com/in/pedro-carvalho-143009164/>`_, onde fizemos Pair Programming para resolver o problema citado.
+As contribuições ficam para o meu colega `Pedro Carvalho <https://www.linkedin.com/in/pedro-carvalho-143009164/>`_ (Desenvolvedor backend na Mundiale), onde fizemos Pair Programming para resolver o problema citado.
 Também aos repositórios que disponibilizaram o geoJson:
 
 - `geodata-br <https://github.com/tbrugz/geodata-br>`_
